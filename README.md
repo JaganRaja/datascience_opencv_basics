@@ -1,8 +1,8 @@
 # opencv basics
 
 things to do:
-collect some images using webcam and save in a directory
-Train a model using these images
-Make Prediction and Put Label Text of Prediction on the Image
-Save the Predicted image in a seperate directory
 
+1. collect some images using webcam and save in a directory
+2. Train a model using these images
+3. Make Prediction and Put Label Text of Prediction on the Image
+4. Save the Predicted image in a seperate directory
